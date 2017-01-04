@@ -1,0 +1,46 @@
+h1 {
+color: #00c5ff;
+text-align: center;
+font-family: cursive;
+
+}
+
+nav{
+  color: red;
+  font-size: 20px;
+  display: block;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: red;
+
+}
+
+body {
+  background-color:
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+
+}
+h2 {
+  text-align: center;
+  font-family: cursive;
+  color: #00c5ff;
+
+}
+
+p {
+  font-size: 18px;
+  text-align:center;
+
+}
+
+body {
+  background-color: #ffdb6c;
+}
